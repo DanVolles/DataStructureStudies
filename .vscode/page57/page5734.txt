@@ -1,0 +1,3 @@
+3 - (d) Ponteiro é uma variável que guarda o endereço de outra variável
+
+4 - Para declarar um ponteiro para uma varável float precisamos utilizar Float* p
